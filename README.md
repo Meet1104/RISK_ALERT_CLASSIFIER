@@ -105,6 +105,10 @@ The notebook explores multiple classification models and imbalance-handling tech
 - F1-Score: `<!-- Add actual F1 -->`
 - AUC-ROC: `<!-- Add actual AUC -->`
 
+## video
+
+https://drive.google.com/file/d/1q0acPx_plN9zLqMYK_pwknmc4fykPgzC/view?usp=drive_link
+
 ## Conclusion
 
 This project demonstrates a complete supervised classification workflow—from data exploration and preprocessing to baseline modeling, imbalance handling, tree-based models, hyperparameter tuning, and evaluation. The practical objective is to build a model that helps flag potentially high-risk customers, prioritizing strong detection of the high-risk class and fewer False Negatives.
